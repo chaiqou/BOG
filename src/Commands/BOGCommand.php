@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Chaiqou\BOG\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class BOGCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'bog';
 
     public $description = 'My command';
 
