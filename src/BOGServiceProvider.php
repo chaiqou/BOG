@@ -2,9 +2,9 @@
 
 namespace Chaiqou\BOG;
 
+use Chaiqou\BOG\Commands\BOGCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Chaiqou\BOG\Commands\BOGCommand;
 
 class BOGServiceProvider extends PackageServiceProvider
 {

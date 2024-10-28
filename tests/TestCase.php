@@ -2,9 +2,9 @@
 
 namespace Chaiqou\BOG\Tests;
 
+use Chaiqou\BOG\BOGServiceProvider;
 use Illuminate\Database\Eloquent\Factories\Factory;
 use Orchestra\Testbench\TestCase as Orchestra;
-use Chaiqou\BOG\BOGServiceProvider;
 
 class TestCase extends Orchestra
 {
